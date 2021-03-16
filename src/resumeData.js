@@ -100,7 +100,11 @@ let resumeData = {
     {
       description: "Miracle is another name for hard work.",
       name: "Unknown",
-    }
+    },
+    {
+        description: "Be the change that you wish to see in the world.",
+        name: "Mahatma Gandhi",
+    },
   ],
 };
 export default resumeData;
