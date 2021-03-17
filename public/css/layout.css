@@ -143,7 +143,10 @@ header .scrolldown a:hover { color: #c3a7a6; }
 .opaque { background-color: #333; }
 
 /* hide toggle button */
-#nav-wrap > a.mobile-btn { display: none; }
+#nav-wrap > a.mobile-btn { 
+   display: none;
+   background-color: #a3807c;
+}
 
 ul#nav {
    min-height: 48px;
@@ -318,7 +321,7 @@ ul#nav li.current a { color: #a3807c; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #c3a7a6;
+  	background: #a5b5aa;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
